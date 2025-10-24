@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Tien LE, an AI Engineer with a passion for Big Data, Software Architecture, and Cloud Infrastructure Design.
+- 👋 Hi, I’m Tien LE, an Full Stack AI Engineer with a passion for Big Data, Software Architecture, and Cloud Infrastructure Design.
 - 👀 I’m particularly interested in building scalable AI solutions, optimizing data systems, and designing cloud-native architectures.
 - 🌱 Currently, I’m focused on advancing my expertise in AI, Big Data Engineering, Cloud Infrastructure (AWS, Azure), and Software Architecture.
 - 💡 I’m always open to collaborating on innovative projects that push the boundaries of AI and cloud-based solutions.
