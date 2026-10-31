@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ### 💬 Let's Connect!
 
 - 💼 **LinkedIn:** [/in/tien-le](https://www.linkedin.com/in/tien-le/)
-- 📧 **Email:** [letien.dev@gmail.com](mailto:letien.dev@gmail.com)
+- 📧 **Email:** [letien.fr@gmail.com](mailto:letien.fr@gmail.com)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** When I'm not profiling LLM latency or refining system diagrams, I enjoy exploring architectural case studies and good coffee in Paris!
 
