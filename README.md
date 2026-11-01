@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### 🚀 Highlight Projects
 
 - **[mcp-arxiv-demo](https://github.com/tien-le/mcp-arxiv-demo)**: Rich-context AI workflow using Anthropic’s Model Context Protocol (MCP) to query and synthesize scientific papers (deployed live on Render).
-- **[fastapi-and-backend](https://github.com/tien-le)**: High-performance, strictly-typed GenAI backend boilerplate built with FastAPI, uv, Pydantic, and modern Python package layouts.
+- **[fastapi-and-backend](https://github.com/tien-le/fastapi-and-backend)**: High-performance, strictly-typed GenAI backend boilerplate built with FastAPI, uv, Pydantic, and modern Python package layouts.
 - **Enterprise Multi-Agent RAG**: Scalable architecture integrating vector search (Qdrant), keyword search, and coordinated agent communication via MCP for enterprise document reasoning.
 
 ---
