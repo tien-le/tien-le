@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- **[fastapi-and-backend](https://github.com/tien-le/fastapi-and-backend)**: High-performance, strictly-typed GenAI backend boilerplate built with FastAPI, uv, Pydantic, and modern Python package layouts.
 -->
 
 # Hi there, I'm Tien LE 👋
@@ -51,7 +52,8 @@ Here are some ideas to get you started:
 ### 🚀 Highlight Projects
 
 - **[mcp-arxiv-demo](https://github.com/tien-le/mcp-arxiv-demo)**: Rich-context AI workflow using Anthropic’s Model Context Protocol (MCP) to query and synthesize scientific papers (deployed live on Render).
-- **[fastapi-and-backend](https://github.com/tien-le/fastapi-and-backend)**: High-performance, strictly-typed GenAI backend boilerplate built with FastAPI, uv, Pydantic, and modern Python package layouts.
+- **[machine-learning-from-scratch](https://github.com/tien-le/machine-learning-from-scratch)**: Pure Python implementations of foundational ML algorithms to deeply understand mathematical mechanics, optimization, and loss functions.
+- **[spark-and-python](https://github.com/tien-le/spark-and-python)**: Distributed data processing workflows, ETL pipelines, and large-scale data manipulation using Apache Spark (PySpark).
 - **Enterprise Multi-Agent RAG**: Scalable architecture integrating vector search (Qdrant), keyword search, and coordinated agent communication via MCP for enterprise document reasoning.
 
 ---
